@@ -1,4 +1,4 @@
-# book-search-engine
+# Book Search Engine
 
 View Depolyed 
 
@@ -17,7 +17,7 @@ View Depolyed
  
 
 ## Installations
-To install Apollo Server
+To install Apollo Server 2
 ```bash
 npm install apollo-server-express@2.15.0
 ```
