@@ -17,14 +17,34 @@ View Depolyed
  
 
 ## Installations
-To install Apollo Server 2
+To install Apollo Server
 ```bash
 npm install apollo-server-express@2.15.0
 ```
 
-To install  
+To install Express 
 ```bash
-npm i 
+npm install express
+```
+
+To install Graphql
+```bash
+npm install --save graphql 
+```
+
+To install Mongoose
+```bash
+npm install mongoose
+```
+
+To install Bcrypt
+```bash
+npm install bcrypt
+```
+
+To install JSONwebtoken
+```bash
+npm install jsonwebtoken
 ```
 
 Application will be invoked using:
